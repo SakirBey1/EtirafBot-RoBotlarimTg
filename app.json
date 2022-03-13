@@ -8,7 +8,7 @@
          "aykhan_s",
          "RoBotlarimTg"
       ],   
-   "repository": "https://github.com/Iregullar/EtirafBot-RoBotlarimTg",
+   "repository": "https://github.com/yunusmka/EtirafBot-RoBotlarimTg",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
@@ -24,27 +24,27 @@
       },    
       "ADMIN_QRUP": {
          "description": "Etirafları təsdiqləməy üçün bir qrup yaradın. yaratdığınız botu həmin qrupa atıb admin edib qrup idini bura yazın",
-         "value": "-717273671"
+         "value": "-1666285164"
       },      
       "ETIRAF_QRUP": {
          "description": "Təsdiqlədiyiniz etiraf paylaşılacaq kanal/qrup idini yazın",
-         "value": "-1727079853"
+         "value": "-1763354072"
       },
       "LOG_QRUP": {
          "description": "Bu qrupa botunuz giriş çıxış bilgiləri və xüsusi gizli məlumatlar göndərəcəy bu qrupda yalnız özünüz olun",
-         "value": "-6271773727"
+         "value": "-1666285164"
       },
       "kanal": {
          "description": "Etiraflar paylaşılacaq kanal/qrup linkini bura yazın @ işarəsi olmadan",
-         "value": "İtirafTelegramEvi"
+         "value": "eitirafevi"
       },
       "BOT_AD": {
          "description": "Botun usernamesini bura yazın @ işarəsi ilə",
-         "value": "@itiraftelegramBot"
+         "value": "@eitirattelegrambot"
       },
       "sahib": {
          "description": "Bura öz usernamenizi yazın @ işarəsi olmadan",
-         "value": "olumcuIkaptan"
+         "value": "mkaofc"
       },      
       "support": {
          "description": "Bura support qrupunuz/kanalınız varsa @ işarəsi olmadan yazın yoxdusa olduğu kimi buraxın",
